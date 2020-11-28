@@ -1,4 +1,2 @@
-# hello-world
-prints hello world
-print('hello world !')
-hey there ! this is santosh racharla
+#This file is created for learning GIT.
+we can clone this repo using 'git clone' command
